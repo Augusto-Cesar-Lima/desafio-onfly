@@ -24,4 +24,9 @@
 
 ## Como a sessão foi registrada
 
-O log está em `sessao-01.md`. É um log consolidado de prompts e respostas: traz os prompts na íntegra e as ações, comandos e resultados de cada etapa.
+O registro está em dois arquivos:
+
+- `sessao-01.json`: exportação nativa do app Claude (Configurações > Privacidade > Exportar dados), só com esta conversa. Traz os prompts, as respostas e todas as chamadas de ferramentas com seus resultados. O único ajuste foi trocar o meu e-mail por `[e-mail removido]`.
+- `sessao-01.md`: log consolidado e legível de prompts e respostas, com as ações, comandos e resultados de cada etapa.
+
+A exportação vai até a sugestão do nome do commit de documentação. As últimas mensagens, sobre como exportar a conversa, ficaram de fora porque vieram depois da exportação.
