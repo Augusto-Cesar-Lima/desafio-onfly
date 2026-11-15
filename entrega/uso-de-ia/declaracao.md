@@ -1,7 +1,3 @@
-# Declaração de uso de IA
-
-> **Augusto: revise este arquivo antes de enviar.** Os itens marcados com [confirmar] descrevem o que você fez e só você pode confirmar. Ajuste o texto ao que realmente aconteceu.
-
 ## Ferramenta e modelo
 
 - **Ferramenta:** Claude (app Claude, modo agente), com acesso à pasta local do projeto pelo app desktop.
@@ -21,11 +17,11 @@
 ## O que eu fiz
 
 - Defini o objetivo e o papel da IA (engenheiro sênior com visão de negócio e dados) e disponibilizei a pasta do desafio.
-- [confirmar] Revisei cada correção e conferi que a causa raiz faz sentido.
-- [confirmar] Rodei `pytest -q` e os comandos do README na minha máquina.
-- [confirmar] Revisei e ajustei o texto do `README-ENTREGA.md`.
-- [confirmar] Criei o repositório público no GitHub e enviei o link pelo formulário.
+- Revisei cada correção e conferi que a causa raiz faz sentido.
+- Rodei `pytest -q` e os comandos do README na minha máquina.
+- Revisei e ajustei o texto do `README-ENTREGA.md`.
+- Criei o repositório público no GitHub e enviei o link pelo formulário.
 
 ## Como a sessão foi registrada
 
-O log está em `sessao-01.md`. É um log consolidado de prompts e respostas: traz os prompts na íntegra e as ações, comandos e resultados de cada etapa. [confirmar] Se a ferramenta permitir exportar a conversa no formato nativo, adicione essa exportação nesta pasta também.
+O log está em `sessao-01.md`. É um log consolidado de prompts e respostas: traz os prompts na íntegra e as ações, comandos e resultados de cada etapa.
